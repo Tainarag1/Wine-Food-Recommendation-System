@@ -10,3 +10,5 @@ Interação Simples: O usuário informa o tipo de comida e o sistema retorna uma
 Exemplos de Uso-
 Informar o tipo de comida (e.g., "peixes grelhados") para obter uma lista de vinhos recomendados.
 O sistema sugere vinhos como Sauvignon Blanc, explicando que sua acidez e frescor combinam bem com pratos leves e grelhados.
+
+É ideal para o programa que seja aumentada seu banco de dados para que suas respostas sejam mais precisas para casa entrada. Logo, isso será aprimorado nas próximas versões. Após isso, pretendo criar uma interface para que o programa se torne mais útil.
