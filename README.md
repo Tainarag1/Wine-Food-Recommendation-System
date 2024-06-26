@@ -3,10 +3,10 @@ Bem-vindo ao WineFoodRecommendationSystem! Este repositório contém a primeira 
 
 O programa utiliza uma abordagem de Ontologia para construir uma base de conhecimento que relaciona diferentes tipos de vinhos com comidas específicas. Essa base de conhecimento permite que o sistema forneça recomendações precisas e justificadas para harmonizações de vinhos e pratos.
 
-Funcionalidades
+Funcionalidades- 
 Base de Conhecimento: Utiliza uma ontologia que mapeia tipos de vinhos a comidas específicas, explicando o motivo de cada combinação.
 Recomendações Personalizadas: Dado um tipo de comida, o sistema sugere vinhos que harmonizam bem com o prato, com base na base de conhecimento.
 Interação Simples: O usuário informa o tipo de comida e o sistema retorna uma lista de vinhos recomendados, juntamente com as razões para cada recomendação.
-Exemplos de Uso
+Exemplos de Uso-
 Informar o tipo de comida (e.g., "peixes grelhados") para obter uma lista de vinhos recomendados.
 O sistema sugere vinhos como Sauvignon Blanc, explicando que sua acidez e frescor combinam bem com pratos leves e grelhados.
